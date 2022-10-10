@@ -1,7 +1,7 @@
 package cev.classes;
 
-public class aula02 {
-    public aula02() {
+public class Principal {
+    public Principal() {
     }
 
     public static void main(String[] args) {
